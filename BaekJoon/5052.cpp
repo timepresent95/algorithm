@@ -1,51 +1,36 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 
 using namespace std;
 
-class NumberFlatter
+bool compareNumbers(vector<string> &phoneNumbers, int numberCount)
 {
-public:
-  bool flag;
-  NumberFlatter *children[10];
-  NumberFlatter()
+  for (int i = 0; i < numberCount; i++)
   {
-    flag = false;
-    for (int i = 0; i < 10; i++)
+    for (int j = i + 1; j < numberCount; j++)
     {
-      children[i] = nullptr;
-    }
-  }
-};
-
-bool isConsistentList(vector<string> &phoneNumbers)
-{
-  struct NumberFlatter *head = new NumberFlatter();
-  struct NumberFlatter *cursor;
-  for (string phoneNumber : phoneNumbers)
-  {
-    cursor = head;
-    for (int i = 0; i < phoneNumber.length(); i++)
-    {
-      int number = phoneNumber[i] - '0';
-      if (cursor->flag)
+      bool inconsistent = true;
+      for (int k = 0; k < phoneNumbers[i].length(); k++)
+      {
+        if (phoneNumbers[i][k] != phoneNumbers[j][k])
+        {
+          inconsistent = false;
+          break;
+        }
+      }
+      if (inconsistent)
       {
         return false;
       }
-      if (cursor->children[number] == nullptr)
-      {
-        cursor->children[number] = new NumberFlatter();
-      }
-      cursor = cursor->children[number];
     }
-    cursor->flag = true;
   }
   return true;
 }
 
 int main()
 {
-  freopen("input.txt", "r", stdin);
+  // freopen("input.txt", "r", stdin);
   int testCase;
   cin >> testCase;
   while (testCase--)
@@ -57,6 +42,7 @@ int main()
     {
       cin >> phoneNumbers[i];
     }
-    cout << (isConsistentList(phoneNumbers) ? "YES\n" : "NO\n");
+    sort(phoneNumbers.begin(), phoneNumbers.end());
+    cout << (compareNumbers(phoneNumbers, numberCount) ? "YES\n" : "NO\n");
   }
 }
