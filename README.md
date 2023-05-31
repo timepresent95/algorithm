@@ -18,5 +18,6 @@
 | :-: | :-------: | :--------: | :--: |
 | 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) |  | - |
 | 2523 | [빙산](https://www.acmicpc.net/problem/2523) |  | - |
-| 2467 | [~~두 용액~~](https://www.acmicpc.net/problem/2467) | [Link](https://bloodstrawberry.tistory.com/205) | ! |
-| 2473 | [빙산](https://www.acmicpc.net/problem/2473) |  | + |
+| 2467 | [두 용액](https://www.acmicpc.net/problem/2467) | [Link](https://bloodstrawberry.tistory.com/205) | ! |
+| 2473 | [세 용액](https://www.acmicpc.net/problem/2473) |  | + |
+| 2923 | [~~숫자 게임~~](https://www.acmicpc.net/problem/2923) | [Link](https://jeongboclass.tistory.com/22) | ! |
