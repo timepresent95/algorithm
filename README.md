@@ -20,6 +20,7 @@
 | 2523 | [빙산](https://www.acmicpc.net/problem/2523) |  | - |
 | 2467 | [두 용액](https://www.acmicpc.net/problem/2467) | [Link](https://bloodstrawberry.tistory.com/205) | ! |
 | 2473 | [세 용액](https://www.acmicpc.net/problem/2473) |  | + |
+| 11899 | [괄호 끼워넣기](https://www.acmicpc.net/problem/11899) |  | + |
 | 2923 | [~~숫자 게임~~](https://www.acmicpc.net/problem/2923) | [Link](https://jeongboclass.tistory.com/22) | ! |
 
 ## LeetCode
