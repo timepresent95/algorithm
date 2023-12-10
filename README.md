@@ -22,6 +22,7 @@
 | 2473 | [세 용액](https://www.acmicpc.net/problem/2473) |  | + |
 | 11899 | [괄호 끼워넣기](https://www.acmicpc.net/problem/11899) |  | + |
 | 6549 | [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) |  | - |
+| 5875 | [오타](https://www.acmicpc.net/problem/5875) |  | - |
 | 2923 | [~~숫자 게임~~](https://www.acmicpc.net/problem/2923) | [Link](https://jeongboclass.tistory.com/22) | ! |
 
 ## LeetCode
