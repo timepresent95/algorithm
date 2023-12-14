@@ -25,7 +25,7 @@
 | 6549 | [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) |  | - |
 | 5875 | [오타](https://www.acmicpc.net/problem/5875) |  | - |
 | 19244 | [!괄호 문자열!](https://www.acmicpc.net/problem/19244) |  | - |
-| 2923 | [~~숫자 게임~~](https://www.acmicpc.net/problem/2923) | [Link](https://jeongboclass.tistory.com/22) | ! |
+| 2923 | [숫자 게임](https://www.acmicpc.net/problem/2923) | [Link](https://jeongboclass.tistory.com/22) | ! |
 
 ## LeetCode
 
