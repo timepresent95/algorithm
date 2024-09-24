@@ -17,8 +17,6 @@
 
 | idx | Title   | HelpLink | Mark |
 | :-: | :-------: | :--------: | :--: |
-| 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) |  | - |
-| 2573 | [빙산](https://www.acmicpc.net/problem/2573) |  | - |
 | 2467 | [두 용액](https://www.acmicpc.net/problem/2467) | [Link](https://bloodstrawberry.tistory.com/205) | ! |
 | 6549 | [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) |  | - |
 | 5875 | [오타](https://www.acmicpc.net/problem/5875) |  | - |
@@ -29,6 +27,7 @@
 | 2776 | [암기왕](https://www.acmicpc.net/problem/2776) |  | - |
 | 11437 | [LCA](https://www.acmicpc.net/problem/11437) |  | ! |
 | 1647 | [도시분할 계획](https://www.acmicpc.net/problem/1647) |  | - |
+| 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) |  | - |
 
 ## LeetCode
 
