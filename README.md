@@ -18,7 +18,6 @@
 | idx | Title   | HelpLink | Mark |
 | :-: | :-------: | :--------: | :--: |
 | 19244 | [!괄호 문자열!](https://www.acmicpc.net/problem/19244) |  | - |
-| 2623 | [음악프로그램](https://www.acmicpc.net/problem/2623) |  | ! |
 | 2776 | [암기왕](https://www.acmicpc.net/problem/2776) |  | - |
 | 11437 | [LCA](https://www.acmicpc.net/problem/11437) |  | ! |
 | 1647 | [도시분할 계획](https://www.acmicpc.net/problem/1647) |  | - |
